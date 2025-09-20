@@ -1,0 +1,3 @@
+TOKEN='8249435490:AAGTpwjC6dGX4ILWdJ-HcOwIeySz2QKKHus'
+ZVONKI="https://downloader.disk.yandex.ru/preview/2f333dd49625271b56e9a68fd04e6ff16359ff1565545f4e82912d34a7acccd3/68b9e446/6UcJ2Fermb8HZB5IgDWDCz4R0I7B0-NlapRcX7rvj660hgHOeypwedRHjt-U5ZznLe7JpE5rOGaOxJbMkPbUMw%3D%3D?uid=0&filename=%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B2%D0%BE%D0%BD%D0%BA%D0%BE%D0%B2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2509x1307"
+PROXY="http://proxy.server:3128"
